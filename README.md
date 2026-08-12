@@ -146,3 +146,19 @@ Let's see where this repository goes.
 
 These are my own implementations and notes created while practicing.
 The purpose of this repository is learning, revision, and tracking my DSA journey.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Hemant1282/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Hemant1282/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Hemant1282/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics End-->
