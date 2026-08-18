@@ -26,12 +26,12 @@ The goal is to understand **why** a solution works, learn from failed attempts, 
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 0      |
-| 🟡 Medium  | 0      |
-| 🔴 Hard    | 0      |
-| **Total**  | **0**  |
+| 🟢 Easy    | 9      |
+| 🟡 Medium  | 4      |
+| 🔴 Hard    | 1      |
+| **Total**  | **14** |
 
-> This table will be updated as I solve more problems.
+> This table is updated automatically as of the latest commit and reflects the problems present in the repository.
 
 ---
 
@@ -110,10 +110,22 @@ As I learn more languages, I may add them here.
 
 ## 📈 Progress Log
 
-| # | Problem | Difficulty | Topic           | Language |
-| - | ------- | ---------- | --------------- | -------- |
-| 1 | Two Sum | 🟢 Easy    | Array / HashMap | Java     |
-| 2 | ...     | ...        | ...             | ...      |
+| #  | Problem                              | Difficulty | Topic / Approach                       | Language |
+|----|--------------------------------------|------------|----------------------------------------|----------|
+| 1  | [1_TwoSum](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/1_TwoSum.java)                         | 🟢 Easy    | Array / HashMap                         | Java     |
+| 2  | [9_PalindromeNumber](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/9_PalindromeNumber.java)       | 🟢 Easy    | Math / Reverse digits                   | Java     |
+| 3  | [14_LongestCommonPrefix](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/14_LongestCommonPrefix.java) | 🟢 Easy    | String / Prefix                         | Java     |
+| 4  | [26_RemoveDuplicatesFromSortArray](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/26_RemoveDuplicatesFromSortArray.java) | 🟢 Easy | Array / Two Pointers                    | Java     |
+| 5  | [27_RemoveElement](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/27_RemoveElement.java)           | 🟢 Easy    | Array / Two Pointers                    | Java     |
+| 6  | [66_PlusOne](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/66_PlusOne.java)                       | 🟢 Easy    | Array / Math                            | Java     |
+| 7  | [136_SingleNumber](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/136_SingleNumber.java)           | 🟢 Easy    | Bit Manipulation / XOR                  | Java     |
+| 8  | [169_MajorityProblem](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/169_MajorityProblem.java)     | 🟢 Easy    | Array / Hashing / Boyer-Moore Voting    | Java     |
+| 9  | [2965_MissingAndRepeatedValues](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/2965_MissingAndRepeatedValues.java) | 🟢 Easy | Array / Math                            | Java     |
+| 10 | [11_ContWithMostWater](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Medium/11_ContWithMostWater.java) | 🟡 Medium  | Two Pointers                            | Java     |
+| 11 | [53_MaximumSubarray](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Medium/53_MaximumSubarray.java)     | 🟡 Medium  | Dynamic Programming / Kadane's          | Java     |
+| 12 | [54_SpiralMatrix](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Medium/54_SpiralMatrix.java)         | 🟡 Medium  | Simulation / Matrix traversal           | Java     |
+| 13 | [74_SearchIn2DMatrix](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Medium/74_SearchIn2DMatrix.java)   | 🟡 Medium  | Binary Search / Matrix as sorted array  | Java     |
+| 14 | [4_MedianOfTwoSortedArrays](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Hard/4_MedianOfTwoSortedArrays.java) | 🔴 Hard | Divide & Conquer / Binary Search        | Java     |
 
 ---
 
@@ -138,7 +150,7 @@ Starting from **Day 1**.
 
 Let's see where this repository goes.
 
-**Problems solved: 0 → ∞ 🚀**
+**Problems solved: 0 → 14 🚀**
 
 ---
 
@@ -152,13 +164,27 @@ The purpose of this repository is learning, revision, and tracking my DSA journe
 ## Array
 |  |
 | ------- |
-| [0014-longest-common-prefix](https://github.com/Hemant1282/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [1_TwoSum](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/1_TwoSum.java) |
+| [26_RemoveDuplicatesFromSortArray](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/26_RemoveDuplicatesFromSortArray.java) |
+| [27_RemoveElement](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/27_RemoveElement.java) |
+| [66_PlusOne](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/66_PlusOne.java) |
+| [53_MaximumSubarray](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Medium/53_MaximumSubarray.java) |
+| [2965_MissingAndRepeatedValues](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/2965_MissingAndRepeatedValues.java) |
 ## String
 |  |
 | ------- |
-| [0014-longest-common-prefix](https://github.com/Hemant1282/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
-## Trie
+| [14_LongestCommonPrefix](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/14_LongestCommonPrefix.java) |
+## Bit Manipulation
 |  |
 | ------- |
-| [0014-longest-common-prefix](https://github.com/Hemant1282/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [136_SingleNumber](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Easy/136_SingleNumber.java) |
+## Two Pointers
+|  |
+| ------- |
+| [11_ContWithMostWater](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Medium/11_ContWithMostWater.java) |
+## Binary Search / Divide & Conquer
+|  |
+| ------- |
+| [74_SearchIn2DMatrix](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Medium/74_SearchIn2DMatrix.java) |
+| [4_MedianOfTwoSortedArrays](https://github.com/Hemant1282/Leetcode_Solutions/blob/main/Hard/4_MedianOfTwoSortedArrays.java) |
 <!---LeetCode Topics End-->
